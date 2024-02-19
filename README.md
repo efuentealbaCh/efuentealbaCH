@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eliacer Fuentealba</h1>
+![GitHub Logo](github-header-image.png)
 <h3 align="center">Titulado de Ingeniería Civil en Informática</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efuentealbach&label=Profile%20views&color=0e75b6&style=flat" alt="efuentealbach" /> </p>
