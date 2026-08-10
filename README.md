@@ -1,73 +1,94 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b0ea8,100:00d4ff&height=200&section=header&text=Eliacer%20Fuentealba&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Titulado%20de%20Ingenier%C3%ADa%20Civil%20en%20Inform%C3%A1tica&descAlignY=58&descSize=18&descColor=b19cd9" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Eliacer%20Fuentealba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Titulado%20de%20Ingenier%C3%ADa%20Civil%20en%20Inform%C3%A1tica&descAlignY=58&descSize=18" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Jugador+de+basketball+%F0%9F%8F%80;Aprendiendo+NodeJS+%26+ReactJS;Trabajando+en+Vinculamos+v2.0" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Jugador+de+basketball+%F0%9F%8F%80;Aprendiendo+NodeJS+%26+ReactJS;Trabajando+en+Vinculamos+v2.0" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=efuentealbach&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="efuentealbach" />
+<img src="https://komarev.com/ghpvc/?username=efuentealbaCh&label=Profile%20views&color=8000ff&style=for-the-badge" alt="efuentealbaCh" />
 
 </div>
 
 <br>
 
-## 👋 Sobre mí
-
-- 🔭 Actualmente trabajando en **Vinculamos Versión 2.0**
-- 🌱 Aprendiendo **NodeJS, ReactJS**
-- 👯 Buscando colaborar en **CINAP Data process**
-- 📫 Contáctame en **efuentealba.git@gmail.com**
-- 📄 Conoce mi experiencia en [LinkedIn](https://www.linkedin.com/in/eliacer-fuentealba-5b3003229)
-- ⚡ Dato random: **Jugador de basketball**
+<table align="center">
+<tr>
+<td align="center" width="260">
+<img src="./.assets/avatar-stack.gif" width="230" /><br/>
+<sub>&#128225; <b>online</b></sub>
+</td>
+<td>
+<img src="./.assets/terminal-banner.svg" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 🌐 Conecta conmigo
+## &#128075; Sobre mí
+
+```yaml
+role: "Ingeniero Civil en Informática"
+focus: "Analista/Desarrollador"
+building: "Universidad Católica de Temuco"
+learning: ["SpringBoot", "AWS", "Kubernetes"]
+looking_to_collaborate: "Desarrollo de software con enfoque en la gestión de procesos"
+contact: "efuentealba.git@gmail.com"
+fun_fact: "Jugador de basketball 🏀, Boxeo 🥊 y GYM 💪"
+```
+
+<br>
+
+## &#127760; Conecta conmigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eliacer-fuentealba-5b3003229" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-8000ff?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
 </a>
 <a href="https://instagram.com/elia_fch" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-8000ff?style=for-the-badge&logo=instagram&logoColor=00fff2" />
 </a>
 <a href="mailto:efuentealba.git@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-8000ff?style=for-the-badge&logo=gmail&logoColor=00fff2" />
 </a>
 </p>
 
 <br>
 
-## 🛠️ Lenguajes y herramientas
+## &#128736;&#65039; Lenguajes y herramientas
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,figma,flask,git,html,java,js,linux,mariadb,matlab,mongodb,mysql,nodejs,opencv,oracle,php,postgres,postman,python,pytorch,sklearn,tailwind,ts,vue&perline=10" />
+<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,figma,flask,git,html,java,js,linux,sqlite,matlab,mongodb,mysql,nodejs,opencv,php,postgres,postman,python,pytorch,sklearn,tailwind,ts,vue,kubernetes,spring,aws,react,astro,docker&perline=10&theme=dark" />
 </p>
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## &#128202; Estadísticas de GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=efuentealbach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efuentealbach&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=efuentealbaCh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0221&title_color=00fff2&icon_color=b967ff&text_color=c9c9ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efuentealbaCh&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00fff2&text_color=c9c9ff" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=efuentealbach&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=efuentealbaCh&theme=radical&hide_border=true&background=0D0221&ring=B967FF&fire=00FFF2&currStreakLabel=00FFF2" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=efuentealbach&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=efuentealbaCh&theme=react-dark&bg_color=0d0221&color=00fff2&line=b967ff&point=ffffff&area=true&area_color=5b0ea8&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=efuentealbaCh&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 <br>
 
-## 🐍 Actividad de contribuciones
+## &#128013; Actividad de contribuciones
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/efuentealbach/efuentealbach/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/efuentealbaCh/efuentealbaCH/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:5b0ea8,100:1a0033&height=100&section=footer" width="100%"/>
 </div>
