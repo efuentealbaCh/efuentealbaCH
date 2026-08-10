@@ -41,13 +41,13 @@
     <text x="30" y="106" fill="#f2f2ff">&gt; Eliacer Fuentealba</text>
 
     <text x="30" y="140"><tspan fill="#00fff2">eliacer@devspace</tspan><tspan fill="#b967ff">:~$</tspan> cat roles.txt</text>
-    <text x="30" y="166" fill="#f2f2ff">&gt; Ingeniero Civil en Inform&#225;tica &#183; Full Stack Developer</text>
+    <text x="30" y="166" fill="#f2f2ff">&gt; Analista&#47;Desarrollador &#183; Ingeniero Civil en Inform&#225;tica</text>
 
     <text x="30" y="200"><tspan fill="#00fff2">eliacer@devspace</tspan><tspan fill="#b967ff">:~$</tspan> cat current.json</text>
-    <text x="30" y="226" fill="#f2f2ff">&gt; { "building": "Vinculamos v2.0", "learning": ["Node.js","React"] }</text>
+    <text x="30" y="226" fill="#f2f2ff">&gt; { "building": "UC Temuco", "learning": ["SpringBoot","AWS","K8s"] }</text>
 
-    <text x="30" y="260"><tspan fill="#00fff2">eliacer@devspace</tspan><tspan fill="#b967ff">:~$</tspan> echo $HOBBY</text>
-    <text x="30" y="286" fill="#f2f2ff">&gt; &#127936; Basketball player</text>
+    <text x="30" y="260"><tspan fill="#00fff2">eliacer@devspace</tspan><tspan fill="#b967ff">:~$</tspan> echo $HOBBIES</text>
+    <text x="30" y="286" fill="#f2f2ff">&gt; &#127936; Basketball &#183; &#129354; Boxeo &#183; &#128170; GYM</text>
 
     <text x="30" y="316"><tspan fill="#00fff2">eliacer@devspace</tspan><tspan fill="#b967ff">:~$</tspan> <tspan id="cursor" fill="#00fff2">&#9608;</tspan></text>
   </g>

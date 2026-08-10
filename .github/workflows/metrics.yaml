@@ -1,0 +1,53 @@
+name: generate isocalendar metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: .assets/metrics-isocalendar.svg
+          committer_branch: main
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #150029;
+              --color-calendar-graph-day-border: rgba(0,255,242,0.08);
+              --color-calendar-graph-day-L1-bg: #3a1466;
+              --color-calendar-graph-day-L2-bg: #6c1fb0;
+              --color-calendar-graph-day-L3-bg: #b967ff;
+              --color-calendar-graph-day-L4-bg: #00fff2;
+              --color-calendar-graph-day-L1-border: rgba(0,255,242,0.08);
+              --color-calendar-graph-day-L2-border: rgba(0,255,242,0.08);
+              --color-calendar-graph-day-L3-border: rgba(0,255,242,0.08);
+              --color-calendar-graph-day-L4-border: rgba(0,255,242,0.35);
+            }
+            svg {
+              color: #c9c9ff;
+              font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace;
+            }
+            h2, h3 {
+              color: #00fff2 !important;
+              font-weight: 600;
+            }
+            .field svg {
+              fill: #b967ff;
+            }
+            .items-wrapper {
+              background: linear-gradient(160deg, #1a0033 0%, #0d0221 60%, #050014 100%);
+              border: 1.6px solid #7a3fd6;
+              border-radius: 16px;
+              box-shadow: 0 0 22px rgba(0, 255, 242, 0.22);
+              padding: 16px 18px;
+            }

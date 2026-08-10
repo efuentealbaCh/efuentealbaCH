@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(grep -n -i \"theme\" /tmp/metrics_readme.md | head -40)",
+      "Read(//tmp/**)",
+      "Bash(grep -n \"^##\\\\|^#\" /tmp/core_readme.md | head -80)",
+      "Bash(sed -n '114,165p' /tmp/core_readme.md)",
+      "Bash(curl -sS --max-time 20 \"https://api.github.com/repos/lowlighter/metrics/contents/?ref=presets\")",
+      "Bash(curl -sS --max-time 20 \"https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml\")",
+      "Bash(curl -sS --max-time 20 \"https://api.github.com/repos/lowlighter/metrics/contents/lunar-red?ref=presets\")",
+      "Bash(curl -sS --max-time 20 \"https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yml\")",
+      "Bash(grep -n -i \"background\\\\|dark mode\\\\|gh-dark\\\\|svg background\\\\|config_display\" /tmp/core_readme.md | head -30)",
+      "Bash(curl -sS --max-time 20 \"https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg\" -o /tmp/iso_example.svg)",
+      "Bash(grep -o \"background[^;]*;\" /tmp/iso_example.svg | head -20 *)",
+      "Bash(sed -n '242,342p' /tmp/core_readme.md)",
+      "Bash(grep -n -A6 \"committer_branch\\\\|^  filename:\" /tmp/core_meta.yml | head -40)",
+      "Bash(git ls-remote *)"
+    ]
+  }
+}
